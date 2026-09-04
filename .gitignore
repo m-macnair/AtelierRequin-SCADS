@@ -1,0 +1,18 @@
+# Ignore everything
+*
+
+# But don't ignore directories
+!*/
+
+# Allow PNG
+!*.png
+
+# Allow OpenSCAD
+!*.scad
+
+# Allow the usuals
+!*.md
+!*.pl
+!*.sh
+!*.cfg
+!*.json
