@@ -3,12 +3,9 @@
 
 # But don't ignore directories
 !*/
-
-# Allow PNG
 !*.png
-
-# Allow OpenSCAD
 !*.scad
+!*.svg
 
 # Allow the usuals
 !*.md
